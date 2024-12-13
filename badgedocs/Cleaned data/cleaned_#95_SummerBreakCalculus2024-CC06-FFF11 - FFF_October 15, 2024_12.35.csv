@@ -1,0 +1,64 @@
+StartDate,EndDate,RecordedDate,ExternalReference,Starting level,L1 problem,L1 incorrect answer,L1 idk answer,softexitaftrL1wrong,L1 answer after hint,L1 wrng after hint,l1 idk after hint,L1 right after hint,chce L1 init wrong,L1 choice correct,L1correct soln chce,softexitaftrL1right,l1sim problem,l1sim rt choice,l1sim wrng choice,idk after L1sim,chice after sim soln,L2 problem,L2 choice aftr wrong,L2 choice after idk,L2 after hint answer,L2 hint right choice,L2 hint wrong choice,idk after L2hint,L2 right choice,L2 soln,L1x1q answer,L1x1 right choice,L1x1 wrong choice,L1x1 idk choice,L1x2q answer,L1x2 right choice,L1x2 wrong choice,L1x2 idk choice,L2x1q answer,L2x1 right choice,L2x1 wrong choice,L2x1 idk choice,L2x2q answer,Problem Number,Problem Label
+Start Date,End Date,,External Data Reference,Starting level,"Now, give it a try!",What's next?,What's next?,Please stick around!,See if this helps...,What's next for you?,What's next for you?,What's next for you?,What would you like to do now?,"Now, what's next for you today?",What's next for you?,Wanna stick around for a bit more?,"Now, give it a try!",What's next?,What's next?,What's next?,What would you like to do now?,"Now, give it a try!",What's next for you?,What's next for you?,See if this helps...,What's next?,What's next?,What's next?,What's next?,L2 soln,"Choose an answer and then hit
+
+NEXT to see if you're right!",Right! Keep going!,"Not quite...
+
+but practice makes perfect!","That's ok!
+
+Knowing what you don't know
+
+is a good thing!",Try this one...,"Right!
+
+Keep challenging yourself!","Not quite...
+
+but kudos for trying!","That's ok!
+
+Learn from what you don't know!",What do you think for this one?,"Right!
+
+Push yourself more!","Not quite...
+
+but your brain is growing!","That's ok!
+
+You'll learn with practice!",Last one!,#95,CC06
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}",,"{""ImportId"":""externalDataReference""}","{""ImportId"":""QID26""}","{""ImportId"":""QID4""}","{""ImportId"":""QID42""}","{""ImportId"":""QID98""}","{""ImportId"":""QID72""}","{""ImportId"":""QID45""}","{""ImportId"":""QID47""}","{""ImportId"":""QID99""}","{""ImportId"":""QID49""}","{""ImportId"":""QID81""}","{""ImportId"":""QID33""}","{""ImportId"":""QID54""}","{""ImportId"":""QID56""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID100""}","{""ImportId"":""QID83""}","{""ImportId"":""QID75""}","{""ImportId"":""QID35""}","{""ImportId"":""QID101""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID102""}","{""ImportId"":""QID74""}","{""ImportId"":""QID40""}","{""ImportId"":""QID1318333255""}","{""ImportId"":""QID118""}","{""ImportId"":""QID125""}","{""ImportId"":""QID129""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120""}","{""ImportId"":""QID126""}","{""ImportId"":""QID130""}","{""ImportId"":""QID121""}","{""ImportId"":""QID122""}","{""ImportId"":""QID127""}","{""ImportId"":""QID131""}","{""ImportId"":""QID123""}",#95,CC06
+2024-08-16 11:31:07,2024-08-16 11:41:01,2024-08-16,S24Student149,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 11:33:22,2024-08-16 11:42:29,2024-08-16,S24Student188,L1 Start,d,hint,,,d,soln maybe another,,,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 11:31:16,2024-08-16 11:51:23,2024-08-16,S24Student340,L2 Start,,,,,,,,,,,,,,,,,,d,L2 hint,,d,,L2 soln,,,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 12:18:43,2024-08-16 12:20:36,2024-08-16,S24Student234,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 13:26:46,2024-08-16 13:27:35,2024-08-16,S24Student227,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 13:32:05,2024-08-16 13:38:45,2024-08-16,S24Student355,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 15:30:48,2024-08-16 15:31:48,2024-08-16,S24Student141,L1 Start,b,hint,,,a,,,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 15:30:50,2024-08-16 15:31:58,2024-08-16,S24Student357,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 15:30:47,2024-08-16 15:31:58,2024-08-16,S24Student110,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 15:36:13,2024-08-16 15:37:07,2024-08-16,S24Student226,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 15:39:03,2024-08-16 15:40:50,2024-08-16,S24Student221,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 hint,,a,exit,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 16:17:50,2024-08-16 16:20:31,2024-08-16,S24Student339,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 16:28:59,2024-08-16 16:32:32,2024-08-16,S24Student160,L1 Start,d,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 16:40:56,2024-08-16 16:42:43,2024-08-16,S24Student256,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 16:53:53,2024-08-16 17:00:19,2024-08-16,S24Student61,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 17:13:16,2024-08-16 17:14:47,2024-08-16,S24Student271,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 hint,,b,,L2 soln,,,exit,,,,,,,,,,,,,,#95,CC06
+2024-08-16 17:07:42,2024-08-16 17:15:07,2024-08-16,S24Student157,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 18:25:03,2024-08-16 18:27:59,2024-08-16,S24Student80,L1 Start,d,soln maybe more,,,,,,,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 11:46:12,2024-08-16 19:33:18,2024-08-16,S24Student287,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 19:39:03,2024-08-16 19:39:55,2024-08-16,S24Student205,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,exit,,,,,,,,,,,,,,#95,CC06
+2024-08-16 17:10:26,2024-08-16 20:22:56,2024-08-16,S24Student192,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 20:26:48,2024-08-16 20:29:33,2024-08-16,S24Student358,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 20:36:26,2024-08-16 20:40:27,2024-08-16,S24Student374,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 20:43:51,2024-08-16 20:46:51,2024-08-16,S24Student347,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,exit,,,,#95,CC06
+2024-08-16 21:00:21,2024-08-16 21:01:05,2024-08-16,S24Student225,L1 Start,b,hint,,,d,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 21:08:17,2024-08-16 21:12:06,2024-08-16,S24Student346,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 23:29:19,2024-08-16 23:30:31,2024-08-16,S24Student359,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-17 06:13:22,2024-08-17 06:23:10,2024-08-17,S24Student177,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-17 07:50:57,2024-08-17 07:54:01,2024-08-17,S24Student228,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,c,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-17 08:06:46,2024-08-17 08:07:59,2024-08-17,S24Student81,L2 Start,,,,,,,,,,,,,,,,,,c,L2 hint,,d,,L2 soln,,,exit,,,,,,,,,,,,,,#95,CC06
+2024-08-17 09:29:30,2024-08-17 09:31:31,2024-08-17,S24Student83,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-17 09:24:25,2024-08-17 09:34:53,2024-08-17,S24Student216,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#95,CC06
+2024-08-16 12:02:44,2024-08-16 12:04:53,2024-08-17,S24Student92,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 soln,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 12:47:02,2024-08-16 12:48:21,2024-08-17,S24Student372,L1 Start,idk,,soln maybe more,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 11:57:39,2024-08-16 12:49:43,2024-08-17,S24Student95,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,b,L2 hint,,a,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 13:08:54,2024-08-16 13:25:02,2024-08-17,S24Student08,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 soln,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 16:02:09,2024-08-16 16:02:34,2024-08-17,S24Student91,L1 Start,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-17 16:39:02,2024-08-17 16:39:58,2024-08-17,S24Student224,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 16:47:35,2024-08-16 16:49:04,2024-08-17,S24Student204,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 18:55:40,2024-08-16 18:57:06,2024-08-17,S24Student66,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,,,,,,,,,,,,,,,,#95,CC06
+2024-08-16 20:35:19,2024-08-16 20:38:45,2024-08-17,S24Student169,L1 Start,c,hint,,,b,soln maybe another,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#95,CC06

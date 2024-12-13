@@ -1,0 +1,395 @@
+{
+    "BadgeCountsByStudent": {
+        "S24Student256": {
+            "Exertion": 7,
+            "Community": 1,
+            "Determination": 1
+        },
+        "S24Student340": {
+            "Initiative": 7,
+            "Commitment badge (3 stars)": 6,
+            "Community": 1,
+            "Determination": 1
+        },
+        "S24Student339": {
+            "Exertion": 4,
+            "Determination": 2,
+            "Commitment badge (3 stars)": 4,
+            "Community": 1,
+            "Endurance (one star - left)": 1,
+            "Commitment badge (2 stars)": 1,
+            "Initiative": 3,
+            "Commitment badge (4 stars)": 1
+        },
+        "S24Student249": {
+            "Exertion": 4,
+            "Community": 1,
+            "Determination": 1
+        },
+        "S24Student205": {
+            "Exertion": 7,
+            "Community": 1
+        },
+        "S24Student221": {
+            "Determination": 6,
+            "Community": 1,
+            "Exertion": 1,
+            "Endurance (one star - left)": 2
+        },
+        "S24Student149": {
+            "Exertion": 7,
+            "Endurance (one star - left)": 4,
+            "Determination": 4,
+            "Commitment badge (4 stars)": 6,
+            "Community": 1
+        },
+        "S24Student255": {
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student157": {
+            "Exertion": 7,
+            "Commitment badge (4 stars)": 1,
+            "Community": 1,
+            "Commitment badge (3 stars)": 5
+        },
+        "S24Student355": {
+            "Exertion": 6,
+            "Endurance (one star - left)": 6,
+            "Determination": 5,
+            "Community": 1,
+            "Commitment badge (3 stars)": 1,
+            "Commitment badge (4 stars)": 3
+        },
+        "S24Student271": {
+            "Exertion": 5,
+            "Determination": 3,
+            "Community": 1
+        },
+        "S24Student186": {
+            "Exertion": 5,
+            "Endurance (one star - left)": 5,
+            "Commitment badge (4 stars)": 4,
+            "Community": 1,
+            "Determination": 2
+        },
+        "S24Student95": {
+            "Endurance (one star - left)": 2,
+            "Determination": 3,
+            "Exertion": 1
+        },
+        "S24Student198": {
+            "Exertion": 1
+        },
+        "S24Student234": {
+            "Initiative": 4,
+            "Determination": 3,
+            "Community": 1,
+            "Exertion": 2
+        },
+        "S24Student357": {
+            "Determination": 4,
+            "Exertion": 3,
+            "Community": 1,
+            "Endurance (one star - left)": 1
+        },
+        "S24Student191": {
+            "Exertion": 2
+        },
+        "S24Student227": {
+            "Initiative": 7,
+            "Determination": 2,
+            "Community": 1
+        },
+        "S24Student312": {
+            "Initiative": 3,
+            "Determination": 2,
+            "Community": 1,
+            "Exertion": 2
+        },
+        "S24Student110": {
+            "Endurance (one star - left)": 1,
+            "Determination": 5,
+            "Exertion": 2,
+            "Community": 1
+        },
+        "S24Student226": {
+            "Exertion": 7,
+            "Endurance (one star - left)": 5,
+            "Determination": 2,
+            "Commitment badge (4 stars)": 5,
+            "Community": 1,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student91": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student145": {
+            "Exertion": 4,
+            "Endurance (one star - left)": 4,
+            "Determination": 4,
+            "Commitment badge (4 stars)": 3,
+            "Community": 1
+        },
+        "S24Student203": {
+            "Exertion": 5,
+            "Endurance (one star - left)": 5,
+            "Determination": 4,
+            "Commitment badge (4 stars)": 4,
+            "Community": 1
+        },
+        "S24Student347": {
+            "Exertion": 6,
+            "Community": 1,
+            "Commitment badge (3 stars)": 3,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (2 stars)": 1
+        },
+        "S24Student225": {
+            "Determination": 4,
+            "Community": 1
+        },
+        "S24Student81": {
+            "Initiative": 7,
+            "Determination": 4,
+            "Community": 1
+        },
+        "S24Student169": {
+            "Exertion": 2,
+            "Determination": 6,
+            "Community": 1,
+            "Endurance (one star - left)": 2
+        },
+        "S24Student228": {
+            "Exertion": 3,
+            "Endurance (one star - left)": 3,
+            "Determination": 3,
+            "Commitment badge (4 stars)": 2,
+            "Community": 1
+        },
+        "S24Student346": {
+            "Exertion": 4,
+            "Commitment badge (3 stars)": 3,
+            "Endurance (one star - left)": 1
+        },
+        "S24Student242": {
+            "Initiative": 2,
+            "Determination": 2,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student92": {
+            "Determination": 1,
+            "Exertion": 3,
+            "Community": 1
+        },
+        "S24Student61": {
+            "Exertion": 6,
+            "Endurance (one star - left)": 6,
+            "Determination": 3,
+            "Commitment badge (4 stars)": 5,
+            "Community": 1
+        },
+        "S24Student348": {
+            "Initiative": 4,
+            "Determination": 3,
+            "Commitment badge (3 stars)": 3
+        },
+        "S24Student160": {
+            "Exertion": 7,
+            "Determination": 5,
+            "Community": 1,
+            "Endurance (one star - left)": 4,
+            "Commitment badge (4 stars)": 3
+        },
+        "S24Student299": {
+            "Initiative": 4,
+            "Commitment badge (1 star)": 1,
+            "Community": 1,
+            "Exertion": 1,
+            "Commitment badge (3 stars)": 2,
+            "Commitment badge (4 stars)": 1
+        },
+        "S24Student66": {
+            "Exertion": 4,
+            "Endurance (one star - left)": 4,
+            "Determination": 4,
+            "Commitment badge (2 stars)": 1,
+            "Commitment badge (1 star)": 1
+        },
+        "S24Student177": {
+            "Initiative": 4,
+            "Commitment badge (3 stars)": 2
+        },
+        "S24Student195": {
+            "Exertion": 4,
+            "Community": 1,
+            "Endurance (one star - left)": 2,
+            "Determination": 2
+        },
+        "S24Student335": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Community": 1
+        },
+        "S24Student215": {
+            "Community": 1
+        },
+        "S24Student359": {
+            "Initiative": 5,
+            "Community": 1,
+            "Determination": 1,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student80": {
+            "Exertion": 4,
+            "Community": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student141": {
+            "Exertion": 1,
+            "Determination": 5,
+            "Community": 1
+        },
+        "S24Student293": {
+            "Exertion": 2,
+            "Community": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student204": {
+            "Exertion": 5,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (3 stars)": 3,
+            "Community": 1,
+            "Commitment badge (2 stars)": 1
+        },
+        "S24Student109": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Community": 1
+        },
+        "S24Student161": {
+            "Exertion": 1,
+            "Determination": 1,
+            "Community": 1
+        },
+        "S24Student192": {
+            "Community": 1,
+            "Exertion": 3,
+            "Endurance (one star - left)": 3,
+            "Determination": 1,
+            "Commitment badge (4 stars)": 3
+        },
+        "S24Student15": {
+            "Exertion": 2,
+            "Determination": 3,
+            "Endurance (one star - left)": 2
+        },
+        "S24Student328": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 2,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student86": {
+            "Exertion": 2,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student216": {
+            "Exertion": 4,
+            "Endurance (one star - left)": 2,
+            "Commitment badge (2 stars)": 1,
+            "Commitment badge (3 stars)": 3
+        },
+        "S24Student283": {
+            "Determination": 1
+        },
+        "S24Student188": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (4 stars)": 1
+        },
+        "S24Student287": {
+            "Initiative": 2
+        },
+        "S24Student358": {
+            "Exertion": 2
+        },
+        "S24Student374": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 2
+        },
+        "S24Student83": {
+            "Exertion": 1
+        },
+        "S24Student08": {
+            "Exertion": 2,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student224": {
+            "Exertion": 1
+        },
+        "S24Student329": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (4 stars)": 1
+        },
+        "S24Student38": {
+            "Exertion": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1,
+            "Commitment badge (1 star)": 1
+        },
+        "S24Student211": {
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student356": {
+            "Exertion": 1,
+            "Commitment badge (1 star)": 1,
+            "Endurance (one star - left)": 1,
+            "Determination": 1
+        },
+        "S24Student54": {
+            "Initiative": 1,
+            "Determination": 1,
+            "Commitment badge (3 stars)": 1
+        },
+        "S24Student314": {
+            "Exertion": 1
+        },
+        "S24Student69": {
+            "Determination": 1
+        },
+        "S24Student104": {
+            "Exertion": 1
+        },
+        "S24Student47": {
+            "Exertion": 1,
+            "Commitment badge (2 stars)": 1
+        }
+    },
+    "OverallBadgeCounts": {
+        "Exertion": 164,
+        "Initiative": 53,
+        "Determination": 123,
+        "Endurance (one star - left)": 81,
+        "Community": 39,
+        "Commitment badge (4 stars)": 43,
+        "Commitment badge (3 stars)": 42,
+        "Commitment badge (1 star)": 4,
+        "Commitment badge (2 stars)": 6
+    }
+}

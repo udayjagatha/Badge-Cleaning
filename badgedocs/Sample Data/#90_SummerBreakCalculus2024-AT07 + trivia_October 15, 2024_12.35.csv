@@ -1,0 +1,233 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Trivia Day,Starting level,L2 confidence,Rethink L2,L1 confidence,L1 problem,L1 incorrect answer,L1 idk answer,softexitaftrL1wrong,L1 answer after hint,L1 wrng after hint,l1 idk after hint,L1 right after hint,chce L1 init wrong,L1 choice correct,L1correct soln chce,softexitaftrL1right,L1S confidence,l1sim problem,l1sim rt choice,l1sim wrng choice,idk after L1sim,chice after sim soln,L2 conf after L1,L2 problem,L2 choice aftr wrong,L2 choice after idk,L2 after hint answer,L2 hint right choice,L2 hint wrong choice,idk after L2hint,L2 right choice,L2 soln,L1x1q answer,L1x1 right choice,L1x1 wrong choice,L1x1 idk choice,L1x2q answer,L1x2 right choice,L1x2 wrong choice,L1x2 idk choice,L2x1q answer,L2x1 right choice,L2x1 wrong choice,L2x1 idk choice,L2x2q answer,Trivia
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Hi! Today is a Trivia Day so you get to choose...,Starting level,"First, how sure are you that you can evaluate this?
+
+
+
+   
+
+\displaystyle  \csc \theta = \hspace{.3em} ?",Not so confident?What do you want to do?,"First, how sure are you that you can evaluate this?
+
+ 
+
+   
+
+\displaystyle \sin \theta = \hspace{.3em} ?","Now, give it a try!
+
+ 
+
+
+   
+
+\displaystyle \sin \theta = \hspace{.3em} ?",What's next?,What's next?,Please stick around!,"See if this helps...
+
+ 
+
+
+   
+
+\displaystyle \sin \theta = \hspace{.3em} ?
+
+
+\textbf{HINT:}\\ \displaystyle \textit{Right triangle trig...}\\ \text{SOHCAHTOA}",What's next for you?,What's next for you?,What's next for you?,What would you like to do now?,"Now, what's next for you today?",What's next for you?,Wanna stick around for a bit more?,"First, how sure are you that you can evaluate this?
+
+ 
+
+
+   
+
+\displaystyle \cos \theta = \hspace{.3em} ?","Now, give it a try!
+
+ 
+
+
+
+   
+
+\displaystyle \cos \theta = \hspace{.3em} ?",What's next?,What's next?,What's next?,What would you like to do now?,"First,  how sure are you that you can evaluate this?
+
+ 
+
+
+   
+
+\displaystyle \csc \theta = \hspace{.3em} ?","Now, give it a try!
+
+  
+
+
+
+   
+
+\displaystyle \csc \theta = \hspace{.3em} ?",What's next for you?,What's next for you?,"See if this helps...
+
+
+
+
+   
+
+\displaystyle \csc \theta = \hspace{.3em} ?
+
+
+\textbf{HINT:}\\ \displaystyle \csc \theta = \frac{1}{\sin \theta}",What's next?,What's next?,What's next?,What's next?,Want to work out more?,"Choose an answer and then hit
+
+NEXT to see if you're right!
+
+ 
+
+
+
+   
+
+\displaystyle \tan \theta = \hspace{.3em} ?","Right! Keep going!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta =  \frac{y}{x}","Not quite...
+
+but practice makes perfect!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta = \frac{y}{x}","That's ok!
+
+Knowing what you don't know
+
+is a good thing!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta = \frac{y}{x}","Try this one...
+
+
+
+
+
+   
+
+\displaystyle \sin^2 \theta = \hspace{.3em} ?","Right!
+
+Keep challenging yourself!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","Not quite...
+
+but kudos for trying!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","That's ok!
+
+Learn from what you don't know!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","What do you think for this one?
+
+
+
+
+
+
+   
+
+\displaystyle \sec \theta =  \hspace{.3em} ?","Right!
+
+Push yourself more!
+ 
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","Not quite...
+
+but your brain is growing!
+
+
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","That's ok!
+
+You'll learn with practice!
+
+ 
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","Last one!
+
+ 
+
+
+   
+
+\displaystyle \cot \theta =\hspace{.3em} ?","Some fun trivia for you...
+
+In Calc 2, we'll start with x's and y's in the familiar Cartesian (rectangular) coordinate system.
+
+Then, at the end, we'll change the wallpaper to r's and theta's in the polar system.
+
+
+
+Why do we call it the ""Cartesian"" system?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID136""}","{""ImportId"":""QID26""}","{""ImportId"":""QID68""}","{""ImportId"":""QID70""}","{""ImportId"":""QID69""}","{""ImportId"":""QID4""}","{""ImportId"":""QID42""}","{""ImportId"":""QID98""}","{""ImportId"":""QID72""}","{""ImportId"":""QID45""}","{""ImportId"":""QID47""}","{""ImportId"":""QID99""}","{""ImportId"":""QID49""}","{""ImportId"":""QID81""}","{""ImportId"":""QID33""}","{""ImportId"":""QID54""}","{""ImportId"":""QID56""}","{""ImportId"":""QID111""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID100""}","{""ImportId"":""QID83""}","{""ImportId"":""QID84""}","{""ImportId"":""QID75""}","{""ImportId"":""QID35""}","{""ImportId"":""QID101""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID102""}","{""ImportId"":""QID74""}","{""ImportId"":""QID40""}","{""ImportId"":""QID1318333255""}","{""ImportId"":""QID118""}","{""ImportId"":""QID125""}","{""ImportId"":""QID129""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120""}","{""ImportId"":""QID126""}","{""ImportId"":""QID130""}","{""ImportId"":""QID121""}","{""ImportId"":""QID122""}","{""ImportId"":""QID127""}","{""ImportId"":""QID131""}","{""ImportId"":""QID123""}","{""ImportId"":""QID133""}"
+2024-08-11 11:37:10,2024-08-11 11:40:21,IP Address,38.121.43.8,100,190,True,2024-08-11 11:40:21,R_5g7zTviocDqArDj,S24Student92,S24Student92,asu@asu.edu,S24Student92,33.7485,-84.3871,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 11:37:21,2024-08-11 11:42:22,IP Address,24.130.23.107,100,300,True,2024-08-11 11:42:23,R_3VC5nc3dimq1J5z,S24Student149,S24Student149,ariello@asu.edu,S24Student149,37.9269,-122.3313,email,EN,calc plus trivia,L1 Start,,,meh,a,,,,,,,,,straight to L2,,,,,,,,,not at all!,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 11:40:43,2024-08-11 11:43:17,IP Address,99.113.187.138,100,153,True,2024-08-11 11:43:18,R_7WZMv7Yhgg4heFZ,S24Student256,S24Student256,earthtodan@gmail.com,S24Student256,37.8371,-122.2773,email,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 11:38:59,2024-08-11 11:45:19,IP Address,71.229.137.179,100,379,True,2024-08-11 11:45:20,R_5O9l2BuR6YwRvSF,S24Student157,S24Student157,asu@asu.edu,S24Student157,39.9038,-104.9419,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 11:48:43,2024-08-11 11:49:27,IP Address,98.179.76.227,100,43,True,2024-08-11 11:49:28,R_7Qm1AuWW8znh72E,S24Student227,S24Student227,asavalia@asu.edu,S24Student227,33.2727,-111.8278,email,EN,calc plus trivia,L2 Start,super duper!,,,,,,,,,,,,,,,,,,,,,,d,L2 hint,,a,trivia,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 11:45:16,2024-08-11 11:49:38,IP Address,75.167.120.73,100,262,True,2024-08-11 11:49:39,R_6FJ5DrgqHEIFPlu,S24Student335,S24Student335,asu@asu.edu,S24Student335,33.5917,-112.1131,smsinvite,EN,calc plus trivia,L1 Start,,,not very,d,hint,,,a,,,soln maybe more,similar problem,,,,meh,a,L1sim soln maybe more,,,L2,somewhat,a,,,,,,,L2 soln,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 12:03:10,2024-08-11 12:04:21,IP Address,71.209.251.227,100,71,True,2024-08-11 12:04:22,R_3pmm2ZpC7L81UL9,S24Student160,S24Student160,asu@asu.edu,S24Student160,33.4917,-111.9837,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 12:04:28,2024-08-11 12:05:31,IP Address,107.127.25.12,100,62,True,2024-08-11 12:05:31,R_5im0rmqakOJbau7,S24Student205,S24Student205,asu@asu.edu,S24Student205,33.4602,-112.1334,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 12:24:00,2024-08-11 12:25:44,IP Address,68.203.96.76,100,103,True,2024-08-11 12:25:44,R_5uBRBMHdzlrIA0z,S24Student271,S24Student271,asu@asu.edu,S24Student271,30.4032,-97.753,smsinvite,EN,calc plus trivia,L1 Start,,,not very,b,hint,,,a,,,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 12:29:38,2024-08-11 12:30:51,IP Address,68.99.207.92,100,73,True,2024-08-11 12:30:52,R_7DXI2BLUuXnLJ88,S24Student249,S24Student249,asu@asu.edu,S24Student249,33.4053,-111.7227,smsinvite,EN,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 12:29:42,2024-08-11 12:30:56,IP Address,70.40.85.234,100,74,True,2024-08-11 12:30:56,R_7fpmQVqULDKtrwH,S24Student221,S24Student221,lunabethlewis@gmail.com,S24Student221,33.9626,-78.4101,email,EN,calc plus trivia,L1 Start,,,not very,b,hint,,,a,,,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It is named after M. Cartelis Escher whose famous drawings were inspired by repeated squares.
+2024-08-11 12:33:15,2024-08-11 12:38:18,IP Address,73.101.48.89,100,303,True,2024-08-11 12:38:19,R_670QEDLe2r2sr2x,S24Student61,S24Student61,roberboyd@gmail.com,S24Student61,39.761,-77.5672,email,EN,calc plus trivia,L1 Start,,,somewhat,d,hint,,,a,,,soln maybe more,similar problem,,,,super duper!,a,L1sim soln maybe more,,,L2,meh,a,,,,,,,L2 soln,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 12:37:40,2024-08-11 12:50:33,IP Address,172.56.114.12,100,773,True,2024-08-11 12:50:34,R_7VeVwQV4nSNTDLX,S24Student186,S24Student186,nandread@asu.edu,S24Student186,41.8233,-71.441,email,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,L1 soln maybe more,L1sim,,super duper!,a,L1sim soln maybe more,,,L2,super duper!,a,,,,,,,L2 soln,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 13:03:14,2024-08-11 13:07:25,IP Address,47.22.141.82,100,250,True,2024-08-11 13:07:25,R_3ozlPyPelYfBO2W,S24Student340,S24Student340,jfarina@west-fair.com,S24Student340,41.1418,-73.3532,email,EN,calc plus trivia,L2 Start,super duper!,,,,,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 13:06:53,2024-08-11 13:07:41,IP Address,216.26.125.203,100,48,True,2024-08-11 13:07:42,R_3NxezqDd7Oin9ml,S24Student234,S24Student234,smsmit68@asu.edu,S24Student234,43.885,-90.1551,email,EN,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 13:08:24,2024-08-11 13:11:32,IP Address,173.17.255.242,100,187,True,2024-08-11 13:11:33,R_71RdeYzxu4Knj7u,S24Student339,S24Student339,chrishaigh14@gmail.com,S24Student339,41.5822,-93.6802,email,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,meh,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L2X1 flashcard,,,,,,,c,,Try L2X2 flashcard,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 14:02:10,2024-08-11 14:04:52,IP Address,100.7.120.63,100,161,True,2024-08-11 14:04:53,R_22XLVsqZqTBNfHd,S24Student355,S24Student355,kjdaly1@asu.edu,S24Student355,37.4612,-77.395,email,EN,calc plus trivia,L1 Start,,,meh,b,hint,,,b,soln maybe another,,,similar problem,,,,super duper!,a,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 15:38:03,2024-08-11 15:39:21,IP Address,99.241.4.233,100,77,True,2024-08-11 15:39:21,R_30gk0CuTaKmzUhb,S24Student357,S24Student357,mayagrosman4@gmail.com,S24Student357,43.7493,-79.3908,email,EN,calc plus trivia,L1 Start,,,not very,a,,,,,,,,,straight to L2,,,,,,,,,somewhat,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 15:33:34,2024-08-11 15:39:34,IP Address,71.202.113.42,100,359,True,2024-08-11 15:39:35,R_3EXX66ya82qSRQj,S24Student312,S24Student312,asu@asu.edu,S24Student312,34.6608,-120.4424,smsinvite,EN,calc plus trivia,L2 Start,somewhat,,,,,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 15:55:29,2024-08-11 15:57:01,IP Address,73.100.25.104,100,91,True,2024-08-11 15:57:02,R_77AS8RQIVxlDjkR,S24Student110,S24Student110,asu@asu.edu,S24Student110,42.6789,-72.0477,smsinvite,EN,calc plus trivia,L1 Start,,,not very,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 18:01:38,2024-08-11 18:02:27,IP Address,47.25.196.79,100,49,True,2024-08-11 18:02:28,R_3IBzwe1Id4e0PBL,S24Student215,S24Student215,jlmuell5@asu.edu,S24Student215,43.2151,-124.1984,email,EN,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 18:28:55,2024-08-11 18:35:46,IP Address,174.195.192.196,100,410,True,2024-08-11 18:35:46,R_1erdmnJO840AoAH,S24Student359,S24Student359,ellamey@asu.edu,S24Student359,34.0062,-117.4432,email,EN,calc plus trivia,L2 Start,super duper!,,,,,,,,,,,,,,,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 18:50:25,2024-08-11 18:53:32,IP Address,138.43.60.55,100,187,True,2024-08-11 18:53:33,R_1zZaDD36bC3mxzR,S24Student80,S24Student80,asu@asu.edu,S24Student80,42.5971,-85.1222,smsinvite,EN,calc plus trivia,L1 Start,,,meh,a,,,,,,,,,straight to L2,,,,,,,,,not very,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 18:52:23,2024-08-11 18:54:08,IP Address,174.73.164.67,100,105,True,2024-08-11 18:54:09,R_7xPVm4dbcPD5aFj,S24Student141,S24Student141,asu@asu.edu,S24Student141,33.3054,-111.7401,smsinvite,EN,calc plus trivia,L1 Start,,,meh,a,,,,,,,,,straight to L2,,,,,,,,,not very,idk,,L2 hint,a,trivia,,,,,,,,,,,,,,,,,,"It's named after the Cardiosian, a device once used to make sure that students' hearts were still beating and they hadn't died of boredom in calculus class."
+2024-08-11 19:13:05,2024-08-11 19:14:47,IP Address,187.141.141.23,100,102,True,2024-08-11 19:14:48,R_7Hi1u3mNjeglK8Y,S24Student293,S24Student293,asu@asu.edu,S24Student293,24.1507,-110.3083,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,straight to L2,,,,,,,,,super duper!,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 20:01:32,2024-08-11 20:10:36,IP Address,106.133.83.62,100,543,True,2024-08-11 20:10:37,R_4QDYnF0rI32lGXO,S24Student145,S24Student145,cjwillgo2@gmail.com,S24Student145,35.6837,139.6805,email,EN,calc plus trivia,L1 Start,,,not very,b,hint,,,a,,,soln maybe more,similar problem,,,,meh,a,L1sim soln maybe more,,,L2,not at all!,b,L2 hint,,c,,L2 soln,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 20:33:20,2024-08-11 20:35:30,IP Address,107.122.93.31,100,130,True,2024-08-11 20:35:31,R_5mxfejzwqgGWmB5,S24Student347,S24Student347,asu@asu.edu,S24Student347,44.9752,-93.2612,smsinvite,EN,calc plus trivia,L1 Start,,,somewhat,a,,,,,,,,,straight to L2,,,,,,,,,somewhat,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 20:44:39,2024-08-11 20:45:54,IP Address,98.177.211.69,100,75,True,2024-08-11 20:45:55,R_5340k31cYSwotq8,S24Student225,S24Student225,asu@asu.edu,S24Student225,33.3804,-112.0246,smsinvite,EN,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 20:41:17,2024-08-11 20:48:27,IP Address,45.21.227.104,100,429,True,2024-08-11 20:48:28,R_1sx3dHIdRtEHI6B,S24Student204,S24Student204,asu@asu.edu,S24Student204,33.1494,-96.828,smsinvite,EN,calc plus trivia,L1 Start,,,somewhat,b,hint,,,a,,,soln maybe more,similar problem,,,,somewhat,a,L1sim soln maybe more,,,L2,not very,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Trivia,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-12 07:50:01,2024-08-12 08:01:20,IP Address,12.74.213.85,100,678,True,2024-08-12 08:01:21,R_5ZKqMVeDVhjKb8m,S24Student228,S24Student228,shisel@asu.edu,S24Student228,41.7742,-87.6711,email,EN,calc plus trivia,L1 Start,,,not very,a,,,,,,,,,L1 soln maybe more,L1sim,,meh,a,L1sim soln maybe more,,,L2,not very,d,L2 hint,,b,,L2 soln,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-12 08:37:59,2024-08-12 08:41:31,IP Address,73.40.126.203,100,211,True,2024-08-12 08:41:31,R_63gapFszC2Nxs5s,S24Student109,S24Student109,akiofhearts8@yahoo.com,S24Student109,38.412,-82.3698,email,EN,calc plus trivia,L1 Start,,,meh,c,hint,,,b,soln maybe another,,,similar problem,,,,meh,a,L1sim soln maybe more,,,L2,meh,c,L2 hint,,a,L2 soln,,,,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-12 14:02:31,2024-08-12 14:04:24,IP Address,75.233.155.124,100,113,True,2024-08-12 14:04:25,R_3gnj0Olg09Egng3,S24Student195,S24Student195,asu@asu.edu,S24Student195,33.6362,-112.0908,smsinvite,EN,calc plus trivia,L1 Start,,,super duper!,a,,,,,,,,,L1 soln maybe more,L2,,,,,,,,super duper!,c,L2 soln,,,,,,,trivia,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 15:33:54,2024-08-11 15:35:32,IP Address,172.56.82.30,58,97,False,2024-08-12 15:35:38,R_622fDPHp6s4hqVz,S24Student161,S24Student161,asu@asu.edu,S24Student161,,,smsinvite,EN,calc plus trivia,L1 Start,,,somewhat,a,,,,,,,,,straight to L2,,,,,,,,,meh,b,L2 hint,,c,,,,,,,,,,,,,,,,,,,
+2024-08-12 16:11:01,2024-08-12 16:13:20,IP Address,184.101.6.65,100,138,True,2024-08-12 16:13:20,R_6g1GfZSgU4OhxAd,S24Student226,S24Student226,FinnHuynh@gmail.com,S24Student226,33.5613,-112.1442,email,EN,calc plus trivia,L1 Start,,,meh,a,,,,,,,,,L1 soln maybe more,L1sim,,super duper!,a,L1sim soln maybe more,,,L2,meh,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra."
+2024-08-11 18:53:25,2024-08-11 18:53:52,IP Address,66.215.35.42,9,26,False,2024-08-12 18:53:54,R_5DkmTaB3ISZ0exL,S24Student192,S24Student192,asu@asu.edu,S24Student192,,,smsinvite,EN,calc plus trivia,L1 Start,,,not very,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-08-12 18:56:25,2024-08-12 19:21:02,IP Address,75.214.108.29,100,1477,True,2024-08-12 19:21:03,R_5zDasPReKFknnqQ,S24Student203,S24Student203,hlovera@asu.edu,S24Student203,40.674,-73.9701,email,EN,calc plus trivia,L1 Start,,,somewhat,d,hint,,,b,soln maybe another,,,similar problem,,,,somewhat,a,L1sim soln maybe more,,,L2,somewhat,b,L2 hint,,c,,L2 soln,,,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,b,,Try L2X2 flashcard,,c,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns."
+2024-08-11 20:56:22,2024-08-11 20:59:17,IP Address,107.2.8.71,24,175,False,2024-08-12 20:59:26,R_37qyEkbR7SBTh3W,S24Student169,S24Student169,asu@asu.edu,S24Student169,,,smsinvite,EN,calc plus trivia,L1 Start,,,meh,b,hint,,,b,soln maybe another,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-08-11 21:43:48,2024-08-11 21:44:13,IP Address,104.28.85.220,51,24,False,2024-08-12 21:44:14,R_62Qfjz4cN1U2fML,S24Student81,S24Student81,dposada1@asu.edu,S24Student81,,,email,EN,calc plus trivia,L2 Start,somewhat,,,,,,,,,,,,,,,,,,,,,,c,,,,,,,,,,,,,,,,,,,,,,
+2024-08-11 21:52:15,2024-08-11 21:59:21,IP Address,172.56.86.98,80,425,False,2024-08-12 21:59:23,R_3MuuWGoTJ0eyGEK,S24Student299,S24Student299,asu@asu.edu,S24Student299,,,smsinvite,EN,calc plus trivia,L2 Start,super duper!,,,,,,,,,,,,,,,,,,,,,,idk,,L2 soln,,,,,,flashcards,a,Try L2X1 flashcard,,,,,,,,,,,,

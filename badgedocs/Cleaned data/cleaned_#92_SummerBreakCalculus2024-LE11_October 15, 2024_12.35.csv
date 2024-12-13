@@ -1,0 +1,138 @@
+StartDate,EndDate,RecordedDate,ExternalReference,Starting level,L1 problem,L1 incorrect answer,L1 idk answer,softexitaftrL1wrong,L1 answer after hint,L1 wrng after hint,l1 idk after hint,L1 right after hint,chce L1 init wrong,L1 choice correct,L1correct soln chce,softexitaftrL1right,l1sim problem,l1sim rt choice,l1sim wrng choice,idk after L1sim,chice after sim soln,L2 problem,L2 choice aftr wrong,L2 choice after idk,L2 after hint answer,L2 hint right choice,L2 hint wrong choice,idk after L2hint,L2 right choice,L2 soln,L1x1q answer,L1x1 right choice,L1x1 wrong choice,L1x1 idk choice,L1x2q answer,L1x2 right choice,L1x2 wrong choice,L1x2 idk choice,L2x1q answer,L2x1 right choice,L2x1 wrong choice,L2x1 idk choice,L2x2q answer,Problem Number,Problem Label
+Start Date,End Date,,External Data Reference,"We have a new flashcard
+
+format! Check it out!","Now, give it a try!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}2e^{-t}",What's next?,What's next?,Please stick around!,"See if this helps...
+
+ 
+
+\displaystyle \lim_{t \to -\infty}2e^{-t}
+
+\textbf{HINT:}\\ \displaystyle \text{As } t \to -\infty, e^{-t} \to \infty\\ \text{Then what does multiplying by +2 do?}",What's next for you?,What's next for you?,What's next for you?,What would you like to do now?,"Now, what's next for you today?",What's next for you?,Wanna stick around for a bit more?,"Now, give it a try!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}3e^{-t}",What's next?,What's next?,What's next?,What would you like to do now?,"Now, give it a try!
+
+  
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{6}e + \frac{1}{6}e^{-2t+1} \right)",What's next for you?,What's next for you?,"See if this helps... 
+
+ 
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{6}e + \frac{1}{6}e^{-2t+1} \right) 
+
+
+\textbf{HINT:}\\ \displaystyle  \text{Work inside out...}\\
+\text{As } t \to -\infty, -2t+1 \to \infty\\
+\text{So } e \text{ raised to that...}",What's next?,What's next?,What's next?,What's next?,Want to work out more?,"Choose an answer and then hit
+
+NEXT to see if you're right!
+
+  
+
+\displaystyle \lim_{t \to -\infty}2e^{-3t}","Right! Keep going!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}2e^{-3t} = \infty","Not quite...
+
+but practice makes perfect!
+
+
+
+\displaystyle \lim_{t \to -\infty}2e^{-3t} = \infty","That's ok!
+
+Knowing what you don't know
+
+is a good thing!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}2e^{-3t} = \infty","Try this one...
+
+ 
+\displaystyle \lim_{t \to -\infty}-4e^{-t}","Right!
+
+Keep challenging yourself!
+
+ 
+
+
+\displaystyle \lim_{t \to -\infty}-4e^{-t} = -\infty","Not quite...
+
+but kudos for trying!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}-4e^{-t} = -\infty","That's ok!
+
+Learn from what you don't know!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}-4e^{-t} = -\infty","What do you think for this one?
+
+
+
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{2}e^2 + \frac{1}{2}e^{-3t+2} \right)","Right!
+
+Push yourself more!
+ 
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{2}e^2 + \frac{1}{2}e^{-3t+2} \right) = \infty","Not quite...
+
+but your brain is growing!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{2}e^2 + \frac{1}{2}e^{-3t+2} \right) = \infty","That's ok!
+
+You'll learn with practice!
+
+ 
+
+\displaystyle \lim_{t \to -\infty}\left(-\frac{1}{2}e^2 + \frac{1}{2}e^{-3t+2} \right) = \infty","Last one!
+
+
+
+
+\displaystyle \lim_{t \to -\infty}\left( 3e - 3e^{-t/2+1}\right)",#92,LE11
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}",,"{""ImportId"":""externalDataReference""}","{""ImportId"":""QID26""}","{""ImportId"":""QID4""}","{""ImportId"":""QID42""}","{""ImportId"":""QID98""}","{""ImportId"":""QID72""}","{""ImportId"":""QID45""}","{""ImportId"":""QID47""}","{""ImportId"":""QID99""}","{""ImportId"":""QID49""}","{""ImportId"":""QID81""}","{""ImportId"":""QID33""}","{""ImportId"":""QID54""}","{""ImportId"":""QID56""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID100""}","{""ImportId"":""QID83""}","{""ImportId"":""QID75""}","{""ImportId"":""QID35""}","{""ImportId"":""QID101""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID102""}","{""ImportId"":""QID74""}","{""ImportId"":""QID40""}","{""ImportId"":""QID1318333255""}","{""ImportId"":""QID118""}","{""ImportId"":""QID125""}","{""ImportId"":""QID129""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120""}","{""ImportId"":""QID126""}","{""ImportId"":""QID130""}","{""ImportId"":""QID121""}","{""ImportId"":""QID122""}","{""ImportId"":""QID127""}","{""ImportId"":""QID131""}","{""ImportId"":""QID123""}",#92,LE11
+2024-08-13 11:30:50,2024-08-13 11:33:15,2024-08-13,S24Student340,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 11:31:42,2024-08-13 11:33:38,2024-08-13,S24Student160,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,b,#92,LE11
+2024-08-13 11:34:06,2024-08-13 11:34:32,2024-08-13,S24Student221,L1 Start,d,hint,,,a,,,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 11:35:20,2024-08-13 11:37:06,2024-08-13,S24Student339,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,exit,,,,#92,LE11
+2024-08-13 11:32:06,2024-08-13 11:39:12,2024-08-13,S24Student157,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 11:40:55,2024-08-13 11:42:30,2024-08-13,S24Student149,L1 Start,b,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 11:46:59,2024-08-13 11:47:47,2024-08-13,S24Student293,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 11:42:33,2024-08-13 11:50:40,2024-08-13,S24Student256,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 hint,,a,exit,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 11:49:38,2024-08-13 11:51:24,2024-08-13,S24Student15,L1 Start,d,hint,,,c,soln maybe another,,,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,exit,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 12:10:43,2024-08-13 12:23:10,2024-08-13,S24Student249,L1 Start,d,hint,,,a,,,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 12:29:30,2024-08-13 12:30:56,2024-08-13,S24Student234,L2 Start,,,,,,,,,,,,,,,,,,b,L2 hint,,a,exit,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 12:28:03,2024-08-13 12:43:57,2024-08-13,S24Student192,L1 Start,d,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,a,Try L2X2 flashcard,,,b,#92,LE11
+2024-08-13 12:52:19,2024-08-13 12:58:06,2024-08-13,S24Student186,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 14:23:21,2024-08-13 14:23:57,2024-08-13,S24Student205,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 15:28:27,2024-08-13 15:28:51,2024-08-13,S24Student227,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 15:40:01,2024-08-13 15:40:35,2024-08-13,S24Student357,L1 Start,d,hint,,,a,,,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 15:44:38,2024-08-13 15:46:04,2024-08-13,S24Student110,L1 Start,b,hint,,,a,,,soln maybe more,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 16:05:34,2024-08-13 16:07:05,2024-08-13,S24Student141,L1 Start,d,hint,,,a,,,soln maybe more,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 16:08:18,2024-08-13 16:10:17,2024-08-13,S24Student204,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,exit,,,,#92,LE11
+2024-08-13 18:03:00,2024-08-13 18:04:38,2024-08-13,S24Student226,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,b,,Try L2X2 flashcard,,a,#92,LE11
+2024-08-13 18:59:10,2024-08-13 19:19:40,2024-08-13,S24Student203,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 20:30:30,2024-08-13 20:34:21,2024-08-13,S24Student347,L1 Start,d,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,b,#92,LE11
+2024-08-13 20:32:32,2024-08-13 20:35:33,2024-08-13,S24Student86,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,exit,,,,#92,LE11
+2024-08-13 20:36:27,2024-08-13 20:36:53,2024-08-13,S24Student225,L1 Start,a,,,,,,,,,exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 23:36:14,2024-08-13 23:37:47,2024-08-13,S24Student169,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,exit,,,,,,,,,,,,,,,#92,LE11
+2024-08-14 01:56:58,2024-08-14 02:01:35,2024-08-14,S24Student299,L2 Start,,,,,,,,,,,,,,,,,,b,L2 soln,,,,,,,flashcards,b,,Try L2X1 flashcard,,,,,,a,Try L2X2 flashcard,,,b,#92,LE11
+2024-08-13 11:32:25,2024-08-13 11:34:41,2024-08-14,S24Student95,L1 Start,c,hint,,,c,soln maybe another,,,similar problem,,,,a,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 12:11:46,2024-08-13 12:13:29,2024-08-14,S24Student355,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 15:31:05,2024-08-13 15:31:54,2024-08-14,S24Student312,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,c,L2 soln,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-14 19:59:36,2024-08-14 20:16:24,2024-08-14,S24Student177,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,#92,LE11
+2024-08-13 20:30:29,2024-08-13 20:31:20,2024-08-14,S24Student283,L2 Start,d,hint,,,b,soln maybe another,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 20:31:34,2024-08-13 20:31:57,2024-08-14,S24Student81,L2 Start,,,,,,,,,,,,,,,,,,b,,,,,,,,,,,,,,,,,,,,,,#92,LE11
+2024-08-13 15:36:37,2024-08-14 07:44:05,2024-08-15,S24Student198,L1 Start,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#92,LE11

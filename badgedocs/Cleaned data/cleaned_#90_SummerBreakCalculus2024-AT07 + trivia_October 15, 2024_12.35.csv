@@ -1,0 +1,207 @@
+StartDate,EndDate,RecordedDate,ExternalReference,Trivia Day,Starting level,L1 problem,L1 incorrect answer,L1 idk answer,softexitaftrL1wrong,L1 answer after hint,L1 wrng after hint,l1 idk after hint,L1 right after hint,chce L1 init wrong,L1 choice correct,L1correct soln chce,softexitaftrL1right,l1sim problem,l1sim rt choice,l1sim wrng choice,idk after L1sim,chice after sim soln,L2 problem,L2 choice aftr wrong,L2 choice after idk,L2 after hint answer,L2 hint right choice,L2 hint wrong choice,idk after L2hint,L2 right choice,L2 soln,L1x1q answer,L1x1 right choice,L1x1 wrong choice,L1x1 idk choice,L1x2q answer,L1x2 right choice,L1x2 wrong choice,L1x2 idk choice,L2x1q answer,L2x1 right choice,L2x1 wrong choice,L2x1 idk choice,L2x2q answer,Trivia,Problem Number,Problem Label
+Start Date,End Date,,External Data Reference,Hi! Today is a Trivia Day so you get to choose...,Starting level,"Now, give it a try!
+
+ 
+
+
+   
+
+\displaystyle \sin \theta = \hspace{.3em} ?",What's next?,What's next?,Please stick around!,"See if this helps...
+
+ 
+
+
+   
+
+\displaystyle \sin \theta = \hspace{.3em} ?
+
+
+\textbf{HINT:}\\ \displaystyle \textit{Right triangle trig...}\\ \text{SOHCAHTOA}",What's next for you?,What's next for you?,What's next for you?,What would you like to do now?,"Now, what's next for you today?",What's next for you?,Wanna stick around for a bit more?,"Now, give it a try!
+
+ 
+
+
+
+   
+
+\displaystyle \cos \theta = \hspace{.3em} ?",What's next?,What's next?,What's next?,What would you like to do now?,"Now, give it a try!
+
+  
+
+
+
+   
+
+\displaystyle \csc \theta = \hspace{.3em} ?",What's next for you?,What's next for you?,"See if this helps...
+
+
+
+
+   
+
+\displaystyle \csc \theta = \hspace{.3em} ?
+
+
+\textbf{HINT:}\\ \displaystyle \csc \theta = \frac{1}{\sin \theta}",What's next?,What's next?,What's next?,What's next?,Want to work out more?,"Choose an answer and then hit
+
+NEXT to see if you're right!
+
+ 
+
+
+
+   
+
+\displaystyle \tan \theta = \hspace{.3em} ?","Right! Keep going!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta =  \frac{y}{x}","Not quite...
+
+but practice makes perfect!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta = \frac{y}{x}","That's ok!
+
+Knowing what you don't know
+
+is a good thing!
+
+ 
+
+
+   
+
+\displaystyle \tan \theta = \frac{y}{x}","Try this one...
+
+
+
+
+
+   
+
+\displaystyle \sin^2 \theta = \hspace{.3em} ?","Right!
+
+Keep challenging yourself!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","Not quite...
+
+but kudos for trying!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","That's ok!
+
+Learn from what you don't know!
+
+ 
+
+
+   
+
+\displaystyle \sin^2 \theta = \left(\frac{y}{r}\right)^2","What do you think for this one?
+
+
+
+
+
+
+   
+
+\displaystyle \sec \theta =  \hspace{.3em} ?","Right!
+
+Push yourself more!
+ 
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","Not quite...
+
+but your brain is growing!
+
+
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","That's ok!
+
+You'll learn with practice!
+
+ 
+
+
+   
+
+\displaystyle \sec \theta = \frac{r}{x}","Last one!
+
+ 
+
+
+   
+
+\displaystyle \cot \theta =\hspace{.3em} ?","Some fun trivia for you...
+
+In Calc 2, we'll start with x's and y's in the familiar Cartesian (rectangular) coordinate system.
+
+Then, at the end, we'll change the wallpaper to r's and theta's in the polar system.
+
+
+
+Why do we call it the ""Cartesian"" system?",#90,AT07 + trivia
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}",,"{""ImportId"":""externalDataReference""}","{""ImportId"":""QID136""}","{""ImportId"":""QID26""}","{""ImportId"":""QID4""}","{""ImportId"":""QID42""}","{""ImportId"":""QID98""}","{""ImportId"":""QID72""}","{""ImportId"":""QID45""}","{""ImportId"":""QID47""}","{""ImportId"":""QID99""}","{""ImportId"":""QID49""}","{""ImportId"":""QID81""}","{""ImportId"":""QID33""}","{""ImportId"":""QID54""}","{""ImportId"":""QID56""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID100""}","{""ImportId"":""QID83""}","{""ImportId"":""QID75""}","{""ImportId"":""QID35""}","{""ImportId"":""QID101""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID102""}","{""ImportId"":""QID74""}","{""ImportId"":""QID40""}","{""ImportId"":""QID1318333255""}","{""ImportId"":""QID118""}","{""ImportId"":""QID125""}","{""ImportId"":""QID129""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120""}","{""ImportId"":""QID126""}","{""ImportId"":""QID130""}","{""ImportId"":""QID121""}","{""ImportId"":""QID122""}","{""ImportId"":""QID127""}","{""ImportId"":""QID131""}","{""ImportId"":""QID123""}","{""ImportId"":""QID133""}",#90,AT07 + trivia
+2024-08-11 11:37:10,2024-08-11 11:40:21,2024-08-11,S24Student92,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 11:37:21,2024-08-11 11:42:22,2024-08-11,S24Student149,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,b,,Try L2X1 flashcard,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 11:40:43,2024-08-11 11:43:17,2024-08-11,S24Student256,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 11:38:59,2024-08-11 11:45:19,2024-08-11,S24Student157,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 11:48:43,2024-08-11 11:49:27,2024-08-11,S24Student227,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,d,L2 hint,,a,trivia,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 11:45:16,2024-08-11 11:49:38,2024-08-11,S24Student335,calc plus trivia,L1 Start,d,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 12:03:10,2024-08-11 12:04:21,2024-08-11,S24Student160,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 12:04:28,2024-08-11 12:05:31,2024-08-11,S24Student205,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 12:24:00,2024-08-11 12:25:44,2024-08-11,S24Student271,calc plus trivia,L1 Start,b,hint,,,a,,,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 12:29:38,2024-08-11 12:30:51,2024-08-11,S24Student249,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 12:29:42,2024-08-11 12:30:56,2024-08-11,S24Student221,calc plus trivia,L1 Start,b,hint,,,a,,,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It is named after M. Cartelis Escher whose famous drawings were inspired by repeated squares.,#90,AT07 + trivia
+2024-08-11 12:33:15,2024-08-11 12:38:18,2024-08-11,S24Student61,calc plus trivia,L1 Start,d,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 12:37:40,2024-08-11 12:50:33,2024-08-11,S24Student186,calc plus trivia,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,a,,,,,,,L2 soln,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 13:03:14,2024-08-11 13:07:25,2024-08-11,S24Student340,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,flashcards,a,Try L2X1 flashcard,,,,,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 13:06:53,2024-08-11 13:07:41,2024-08-11,S24Student234,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 13:08:24,2024-08-11 13:11:32,2024-08-11,S24Student339,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L2X1 flashcard,,,,,,,c,,Try L2X2 flashcard,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 14:02:10,2024-08-11 14:04:52,2024-08-11,S24Student355,calc plus trivia,L1 Start,b,hint,,,b,soln maybe another,,,similar problem,,,,a,trivia,,,,,,,,,,,,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 15:38:03,2024-08-11 15:39:21,2024-08-11,S24Student357,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 15:33:34,2024-08-11 15:39:34,2024-08-11,S24Student312,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,L2 soln,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 15:55:29,2024-08-11 15:57:01,2024-08-11,S24Student110,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 18:01:38,2024-08-11 18:02:27,2024-08-11,S24Student215,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 18:28:55,2024-08-11 18:35:46,2024-08-11,S24Student359,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 18:50:25,2024-08-11 18:53:32,2024-08-11,S24Student80,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 18:52:23,2024-08-11 18:54:08,2024-08-11,S24Student141,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,idk,,L2 hint,a,trivia,,,,,,,,,,,,,,,,,,"It's named after the Cardiosian, a device once used to make sure that students' hearts were still beating and they hadn't died of boredom in calculus class.",#90,AT07 + trivia
+2024-08-11 19:13:05,2024-08-11 19:14:47,2024-08-11,S24Student293,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 20:01:32,2024-08-11 20:10:36,2024-08-11,S24Student145,calc plus trivia,L1 Start,b,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,b,L2 hint,,c,,L2 soln,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 20:33:20,2024-08-11 20:35:30,2024-08-11,S24Student347,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,a,,,,,,,trivia,,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 20:44:39,2024-08-11 20:45:54,2024-08-11,S24Student225,just trivia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 20:41:17,2024-08-11 20:48:27,2024-08-11,S24Student204,calc plus trivia,L1 Start,b,hint,,,a,,,soln maybe more,similar problem,,,,a,L1sim soln maybe more,,,L2,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Trivia,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-12 07:50:01,2024-08-12 08:01:20,2024-08-12,S24Student228,calc plus trivia,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,d,L2 hint,,b,,L2 soln,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-12 08:37:59,2024-08-12 08:41:31,2024-08-12,S24Student109,calc plus trivia,L1 Start,c,hint,,,b,soln maybe another,,,similar problem,,,,a,L1sim soln maybe more,,,L2,c,L2 hint,,a,L2 soln,,,,trivia,,,,,,,,,,,,,,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-12 14:02:31,2024-08-12 14:04:24,2024-08-12,S24Student195,calc plus trivia,L1 Start,a,,,,,,,,,L1 soln maybe more,L2,,,,,,,c,L2 soln,,,,,,,trivia,,,,,,,,,,,,,,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 15:33:54,2024-08-11 15:35:32,2024-08-12,S24Student161,calc plus trivia,L1 Start,a,,,,,,,,,straight to L2,,,,,,,,b,L2 hint,,c,,,,,,,,,,,,,,,,,,,,#90,AT07 + trivia
+2024-08-12 16:11:01,2024-08-12 16:13:20,2024-08-12,S24Student226,calc plus trivia,L1 Start,a,,,,,,,,,L1 soln maybe more,L1sim,,a,L1sim soln maybe more,,,L2,b,L2 hint,,a,L2 soln,,,,flashcards,a,Try L1X2 flashcard,,,a,Try L2X1 flashcard,,,a,Try L2X2 flashcard,,,a,"It's named in honor of the 17th century mathematician and philosopher, Rene Descartes, who bridged geometry and algebra.",#90,AT07 + trivia
+2024-08-11 18:53:25,2024-08-11 18:53:52,2024-08-12,S24Student192,calc plus trivia,L1 Start,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#90,AT07 + trivia
+2024-08-12 18:56:25,2024-08-12 19:21:02,2024-08-12,S24Student203,calc plus trivia,L1 Start,d,hint,,,b,soln maybe another,,,similar problem,,,,a,L1sim soln maybe more,,,L2,b,L2 hint,,c,,L2 soln,,,flashcards,b,,Try L1X2 flashcard,,a,Try L2X1 flashcard,,,b,,Try L2X2 flashcard,,c,"It comes from ""carte,"" the French word for map, since (x,y) coordinates were originally used to draw maps of cities and towns.",#90,AT07 + trivia
+2024-08-11 20:56:22,2024-08-11 20:59:17,2024-08-12,S24Student169,calc plus trivia,L1 Start,b,hint,,,b,soln maybe another,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#90,AT07 + trivia
+2024-08-11 21:43:48,2024-08-11 21:44:13,2024-08-12,S24Student81,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,c,,,,,,,,,,,,,,,,,,,,,,,#90,AT07 + trivia
+2024-08-11 21:52:15,2024-08-11 21:59:21,2024-08-12,S24Student299,calc plus trivia,L2 Start,,,,,,,,,,,,,,,,,,idk,,L2 soln,,,,,,flashcards,a,Try L2X1 flashcard,,,,,,,,,,,,,#90,AT07 + trivia
